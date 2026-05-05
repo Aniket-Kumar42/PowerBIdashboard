@@ -1,29 +1,29 @@
-📊 Sales & Business Analytics Dashboard (Power BI)
+📊 Road Accident Analysis Dashboard (Power BI)
 🚀 Project Overview
 
-This project focuses on building an interactive business analytics dashboard using Power BI to analyze key performance metrics such as sales, profit, and customer trends. The dashboard enables stakeholders to make data-driven decisions through real-time insights and visual storytelling.
+This project focuses on building an interactive road accident analysis dashboard using Power BI to analyze accident patterns, severity, and contributing factors. The dashboard helps in identifying trends and supports data-driven decision-making for improving road safety.
 
 📌 Problem Statement
 
-Businesses often struggle with scattered data and manual reporting, making it difficult to track performance efficiently.
-This project aims to centralize data analysis and provide a single interactive dashboard for better decision-making.
+Road accidents result in significant loss of life and property. However, analyzing large-scale accident data manually is inefficient.
+This project aims to provide a centralized and interactive dashboard to monitor accident trends and identify high-risk factors.
 
 📂 Dataset
 Dataset size: 300,000+ rows
-Contains information related to:
-Sales transactions
-Customer details
-Profit and revenue metrics
+Includes data on:
+Accident severity
+Location and road type
+Weather and light conditions
+Vehicle types involved
 ⚙️ Key Features
 ✔️ Data Cleaning and Transformation using Power Query
-✔️ Data Modeling for efficient relationships
+✔️ Data Modeling for structured analysis
 ✔️ Interactive Dashboard with:
-KPIs (Key Performance Indicators)
-Charts and graphs
-Slicers and filters
-Drill-down analysis
-✔️ Real-time data insights
-✔️ User-friendly and visually appealing design
+KPIs (total accidents, casualties, severity distribution)
+Charts and trend analysis
+Slicers (year, location, road type, weather conditions)
+Drill-down insights
+✔️ Dynamic filtering and user-friendly interface
 🛠️ Tools & Technologies
 Power BI
 Power Query
@@ -31,19 +31,18 @@ Data Modeling
 Data Visualization
 📈 Outcomes / Results
 Improved reporting efficiency by ~40%
-Reduced manual analysis time by ~30%
-Enabled stakeholders to quickly identify trends and insights
-Enhanced decision-making through interactive visualizations
-
+Reduced manual data analysis time by ~30%
+Identified key accident patterns based on location, time, and conditions
+Enabled better understanding of factors affecting road safety
 
 📚 Learning Outcomes
-Hands-on experience with end-to-end data analytics workflow
-Strong understanding of data cleaning, transformation, and modeling
-Practical exposure to business intelligence tools (Power BI)
+End-to-end data analytics workflow (cleaning → modeling → visualization)
+Practical experience in handling large-scale datasets (300K+ rows)
+Improved skills in data storytelling and dashboard design
 👨‍💻 Author
 
 Aniket Kumar
 
 ⭐ If you like this project
 
-Give it a ⭐ on GitHub and feel free to connect!
+Give it a ⭐ on GitHub!
